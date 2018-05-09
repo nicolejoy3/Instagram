@@ -1,6 +1,6 @@
-# Project 4 - *instagram_demo*
+# Project 4 - *IG-demo1*
 
-**instagram_demo** is a photo sharing app using Parse as its backend.
+**IG-demo1** is a photo sharing app using Parse as its backend.
 
 Time spent: **one** week spent in total
 
@@ -48,7 +48,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/q9gGATu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/3OBhT0425aQDj5lIaU/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -67,7 +67,7 @@ view the last 20 posts submitted to "Instagram"
 
 ## License
 
-Copyright [2018]  [E.O]
+Copyright [2018]  [Nicole S]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
